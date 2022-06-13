@@ -1,0 +1,6 @@
+.h2{
+    width: 100px;
+    height: 100px;
+    border:2px solid red;
+    border-radius: 100%;
+}
